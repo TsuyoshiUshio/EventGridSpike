@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "EventGridSasKey": "YOUR_EVENT_GRID_TOPIC_KEY_HERE",
+    "EventGridTopicUrl": "YOUR_EVENT_GRID_KEY_HERE"
+
+  }
+}
